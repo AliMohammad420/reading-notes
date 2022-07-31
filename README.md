@@ -10,6 +10,7 @@
 **[Class01](Class01.md)**,
 **[Class02](Class02.md)**,
 **[Class03](Class03.md)**,
-**[Class04](Class04.md)**
-**[Class04.1](Class4,1.md)**
-**[Class05](Class05.md)**
+**[Class04](Class04.md)**,
+**[Class04.1](Class4,1.md)**,
+**[Class05](Class05.md)**,
+**[Class06](Class06.md)**
